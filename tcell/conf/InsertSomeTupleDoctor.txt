@@ -1,0 +1,6 @@
+1:Smit:Florent:Password:Chef Service:Medecin:10
+2:Faye:Luc:MeHappy:Interne:Medecin:10
+3:FAIN:Oliver:wordpass:Interne:Phramacien:10
+4:Boussen:Isaam:coucou2015:Chef Service:Medecin:10
+5:Marie Cristine:Boulanger:Password:Interne:Infirmiere:10
+6:Emanuel:Van Glabeke:&éùokk^:Interne:Infirmier:10

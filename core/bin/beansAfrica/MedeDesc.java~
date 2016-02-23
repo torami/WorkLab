@@ -1,0 +1,30 @@
+package beansAfrica;
+
+import java.io.Serializable;
+
+/**
+ * 
+ * 
+ */
+
+public class MedeDesc implements Serializable {
+	public String GID;
+	public String nomProf;
+	public String Grade;
+	public String Service;
+
+	public MedeDesc(String GID, String nomProf, String Grade, String Service)
+	{
+		this.GID=GID;
+		this.nomProf=nomProf;
+		this.Grade=Grade;
+		this.Service = Service;
+		          
+	}
+
+
+	
+	
+}
+
+
